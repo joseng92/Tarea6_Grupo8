@@ -1,3 +1,5 @@
+package tarea6grupo8;
+
 /**
  *
  * @author jose_
@@ -6,7 +8,7 @@ public abstract class Persona {
     private String nombre;
     private int edad;
     private String genero;
-//ss
+
     public Persona() {
     }
 
